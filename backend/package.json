@@ -41,7 +41,7 @@
     "ncp": "^2.0.0",
     "pg": "^7.11.0",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.18"
+    "typeorm": "^0.2.25"
   },
   "description": ""
 }
